@@ -1,0 +1,532 @@
+---
+title: "Martin Roberts"
+subtitle: "Curriculum Vitae"
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+::: {layout="[[49, -2, 49]]"}
+Department of Visual & Media Arts  
+Emerson College  
+120 Boylston Street  
+Boston, MA 02116  
+[martin_roberts@emerson.edu](mailto://martin_roberts@emerson.edu)  
+
+30 Edgewood Avenue  
+Keene, NH 03431  
+(802) 490-4122  
+:::
+
+## Education
+
+**University of Cambridge (Trinity College)**[1981-1989]{.aside}  
+Faculty of Modern & Medieval Languages  
+Ph. D. in French Studies (1989)  
+Dissertation: “Tournier, *Bricolage* and the Mythical Imagination”
+
+**University of Birmingham**[1977-1981]{.aside}  
+Bachelor of Arts in French (First Class Honours)  
+Minor: Spanish
+
+  
+
+## Appointments
+
+**Emerson College**[2016-2025]{.aside}  
+*Department of Visual & Media Arts*  
+Affiliated Faculty Member
+
+**Keene State College**[2021-2025]{.aside}  
+*Department of Film*  
+Adjunct Faculty 
+
+**Fitchburg State University**[2021-2025]{.aside}  
+*M.S. Program in Applied Communication, Media Studies Concentration*  
+Visiting Professor  
+
+**Dartmouth College**[2016-2022]{.aside}  
+*Department of Film & Media Studies*  
+Visiting Lecturer
+
+**University of Derby** (U.K.)[2013-2015]{.aside}  
+*School of Humanities*  
+Senior Lecturer in Film and Media Studies
+
+**Hallym University** (South Korea)[2012-2013]{.aside}  
+*School of Communication*  
+Visiting Professor  
+
+**The New School**[1997-2011]{.aside} 
+
+*B.A. Program in Liberal Arts / Eugene Lang College*  
+Assistant Professor of Media Studies[2006-2011]{.aside}
+
+*B.A. Program in Liberal Arts*[2002-2006]{.aside}  
+Core Faculty
+
+*M.A. Program in Media Studies*[1997-2000]{.aside}  
+Acting Director of Graduate Studies  [1998-1999]{.aside}      
+Acting Online Program Coordinator[1999-2000]{.aside}    
+Faculty Member    
+
+**New York University**[2000-2010]{.aside}  
+*Department of Media, Culture, and Communication, School of Continuing and Professional Studies*  
+Adjunct Faculty
+
+**Massachusetts Institute of Technology**[1992-1997]{.aside}  
+*Department of Foreign Languages & Literatures*  
+Assistant Professor of French Studies  
+Film & Media Studies Program
+
+**Wesleyan University**[1991-1992]{.aside}  
+*Department of Romance Languages & Literatures*  
+Assistant Professor of French   
+
+**Harvard University**[1998-1991]{.aside}  
+*Concentration in History & Literature*  
+Lecturer in History and Literature
+
+## Teaching: Undergraduate
+
+**Emerson College**  
+Animation: A Global History  
+Cinematic Media  
+Studies in Digital Media & Culture  
+Experimental Media  
+Music and Audiovisual Media  
+Movements in World Cinema  
+History of Documentary  
+History of Media Arts I & II  
+
+**Dartmouth College**  
+Television & New Media  
+Lifestyle Media  
+Global Documentary & Transnational Cinema  
+Digital Arts & Culture  
+
+**Keene State College**  
+Robot Stories  
+Listening to Film: Movie Soundtracks  
+Film Analysis  
+Digital Cinema  
+Film History  
+African Stories: Cinemas of Sub-Saharan Africa  
+
+**University of Derby**  
+Digital Gaming: Technology and Social Practice    
+Television Outside The Box  
+Media, Culture, Power: European Cultural Studies    
+Independent Research Project in Media Studies  
+
+**Hallym University**  
+Global Television    
+British Cultural Studies  
+
+**The New School**  
+Beatlemedia: Popular Music and Cultural Heritage    
+Cinemas of Liberation: Third Cinema and Beyond    
+Introduction to Cultural Analysis    
+Culture and Globalization    
+Theories of Modernity    
+Transnational Documentary and the Global Imaginary  
+Movements in World Cinema II  
+Critical Essay Writing in Film & Media Studies  
+Music As Communication   
+Introduction to Media Studies    
+Global Television  
+Worlds Fairs, Theme Parks, and the Global Imaginary   
+History of Broadcasting    
+Global Subcultures  
+Introduction to Cultural Studies      
+Monsters and The Monstrous: Figuring the Other in the Cultural Imagination  
+Piracy: A Brief History     
+Television and New Media  
+Senior Seminar: Lifestyle   
+Satellite Television: A Cultural History Media, Globalization, and Culture   
+Senior Seminar: Border Cultures  
+
+**New York University**  
+Mass Media, Global Communication, and the Future  
+Media and Identity  
+Introduction to Media Studies  
+
+**Massachusetts Institute of Technology**  
+Introduction to Media Studies  
+Global Culture  
+Counter-Cultures    
+African Cinemas  
+Intensive French Language & Culture    
+Introduction to French Culture  
+Introduction to French Literature    
+The French Short Story  
+The French Novel in the Twentieth Century    
+Everyday Life & Popular Culture in Contemporary France  
+
+**Wesleyan University**  
+French Surrealism and The Avant-Garde    
+Reinventing Everyday Life: French Popular Culture  
+Introduction to French Literature & Culture  
+Composition & Conversation: Intermediate French Language  
+
+**Harvard University**  
+Junior and Senior Tutorial in History and Literature  
+
+## Teaching: Graduate
+
+**M.S. Program in Applied Communication, Department of Communication, Fitchburg State University**  
+Social Mobilities    
+Social Media Theory    
+Integrated Social Media    
+Social Media Marketing  
+
+**M.A. Program in Media Studies, The New School**  
+Global Television  
+Foundations of Media Theory    
+Interactive Media Studies  
+Interactive Documentary  
+Digital Futures  
+Chaotic Media Systems  
+
+
+
+## Publications
+
+**Books**
+
+[Cornelius’s ‘Fantasma.’](https://www.bloomsbury.com/us/corneliuss-fantasma-9781501330179/) New York: Bloomsbury Academic, 2019. 33 1/3 series.
+
+[_Michel Tournier: Bricolage and Cultural Mythology_](https://mroberts.emerson.build/tournier/)_._ Stanford: Stanford French & Italian Studies, 1995.
+
+**Book Chapters**
+
+“_Baraka_: o cinema mundial e a indústria cultural global” in Denilson Lopes and Andrea França, eds., _Cinema, Globalizacão e Interculturalidade_ [_Cinema, Globalization, and Interculturality_], trans. Raquel Maysa Keller (Chapecó, Brazil: Argos Editora Universitária, 2010): 17-42.
+
+“The Fashion Police: Governing the Self in _What Not To Wear_.” In Diane Negra and Yvonne Tasker, eds., _Interrogating Postfeminism: Gender and the Politics of Popular Culture_ (Duke University Press, 2007).
+
+“Notes on the Global Underground: Subcultures and Globalization.” In Ken Gelder, ed., _The Subcultures Reader_, second edition (New York: Routledge, 2005).
+
+“Film Culture.” In Adam Muller, ed., _Concepts of Culture: Art, Politics, and Society_ (Calgary: University of Calgary Press, 2005).
+
+“Decoding D-Day: Multi-Channel Television at the Millennium.” In Mette Hjort and Scott Mackenzie, eds., _Purity and Provocation: Dogma ’95_ (London: BFI, 2003).
+
+“Indonesia: The Movie.” In Mette Hjort and Scott MacKenzie, eds., _Cinema and Nation_ (New York: Routledge, 2000).
+
+“Transnational Geographic: Perspectives on _Baraka_.” In Isabel Santaolalla, ed., _New Exoticisms: Changing Patterns in the Construction of Otherness_ (Amsterdam and Atlanta, GA: Rodopi, 2000).
+
+“World Music: The Relocation of Culture.” _World Culture Report 1998: Culture, Creativity and Markets_ (Paris: UNESCO, 1998).
+
+**Peer-Reviewed Articles**
+
+“[‘A New Stereophonic Sound Spectacular’: Shibuya-kei as Transnational Soundscape](https://www.cambridge.org/core/journals/popular-music/article/abs/new-stereophonic-sound-spectacular-shibuyakei-as-transnational-soundscape/5DD6CA174C1FB15AFF5523F77E9D4F49).” _Popular Music_ 32, no. 1 (January 2013) 111-123.
+
+“[Baraka: World Cinema and the Global Culture Industry.](https://bit.ly/3eSfOzk)” _Cinema Journal_ 37, no. 3 (Spring, 1998), 62-82.
+
+“[The Self in the Other: Ethnographic Film, Surrealism, Politics.](http://dokoissho.sdf.org/self-other/self-other.html)” _Visual Anthropology_ 8 (1) (1996): 79-94.
+
+“World Music and the Global Cultural Economy.” _Diaspora: a Journal of Transnational Studies_ 2 (2) (1992): 229-242.
+
+“Mutations of the Spectacle: _Vitrines_, Arcades, Mannequins.” _French Cultural Studies_ (October 1991), 211-49.
+
+**Other**
+
+“Indonesia’s Gamelan: Not Just World Music.” _UNESCO Sources_ 103 (July-August 1998).
+
+**Internet**
+
+“[From the East Village to Shibuya: A Tale of Two Record Stores](http://333sound.com/from-the-east-village-to-shibuya-a-tale-of-two-record-stores/).” _333Sound: Short Books About Albums. Published By Bloomsbury_, 11 March 2020.
+
+“[‘I’m Riding a Panda!’ Japanese Cult Media and Hipster Cosmopolitanism](https://www.flowjournal.org/2009/04/im-riding-a-panda-japanese-cult-media-and-hipster-cosmopolitanism-martin-roberts-the-new-school/).” _Flow_ 9, no. 10 (April 2009). Dept. of Radio-TV-Film, University of Texas, Austin.
+
+“[This Was England: British Television And/As Cultural Heritage](https://www.flowjournal.org/2009/01/this-was-england-british-television-andas-cultural-heritage-martin-roberts-the-new-schoo/).” _Flow_ 9, no. 5 (January 2009). Dept. of Radio-TV-Film, University of Texas, Austin.
+
+“[Another Green World: Lifestyle Television’s Environmental Turn](https://www.flowjournal.org/2008/10/another-green-world-lifestyle-television%25E2%2580%2599s-environmental-turn-martin-roberts-the-new-school/).” _Flow_ 9, no. 1 (October 2008). Dept. of Radio-TV-Film, University of Texas, Austin.
+
+“[Keyword: Cosmopolitanism](http://dokoissho.sdf.org/cosmopolitanism/).” _Critical World: Thinking Globalization Through Music_ website 2008, Université de Montréal.
+
+## Invited Lectures, Keynotes, Panels
+
+“Media and the Social Construction of Reality.”    Panel discussion organized by David Tamés, Media & Screen Studies, Northeastern University, 4 December 2020.
+
+Interview/discussion with Professor Yoshitaka Mouri on my article “‘A New Stereophonic Sound Spectacular’: Shibuya-kei as Transnational Soundscape.”  
+Tokyo University of the Arts (Zoom), 14 July 2020.
+
+Panel discussant, screening of the documentary film _Anthropocene: The Human Epoch_.  
+Envisioning the World screening series, Closeup Film Theatre, London, 2019.
+
+“Reboot, Reset, React: Television in the Age of Social Media.”  
+Hallym University, Media School. Chuncheon, South Korea, 18 June 2018.
+
+“‘A New Stereophonic Sound Spectacular’: Shibuya-kei as Transnational Soundscape,” 2013.  
+Centre for Media and Film Studies, SOAS, University of London, 13 November 2013.
+
+“Transnational Documentary: Creative Labour and Cultural Politics.”  
+Hallym University, School of Communication. Chuncheon, South Korea, 20 October 2012.
+
+“Cinema and/as Development.”  
+Korean International Cooperation Agency (KOICA), Master’s Program, Yonsei University. Wonju, South Korea, 21 November 2012.
+
+“Subcultural Studies and the Future of Nostalgia.”  
+Panelist (with Tony Jefferson), panel on the re- publication of Stuart Hall and Tony Jeﬀerson’s _Resistance Through Rituals_.  
+“On the Edge: Transgression and the Dangerous Other. An Interdisciplinary Conference,” John Jay College of Criminal Justice, New York, 2007.
+
+“Translation as a Martial Art: _Kung Faux_, from _Détournement_ to Dubtitling.”  
+Panelist, “Martial Arts/Global Flows” conference, Asian-Pacific Studies Institute, Duke University, 2005.
+
+Discussant (with Jiwon Ahn), Hong Kong Cinema screening series of Stephen Chao’s film _Shaolin _Soccer._  
+Leslie Center for the Humanities, Dartmouth College, 2005.
+
+“‘El Download es Cultura’: Electronic Music in Latin America.”  
+Panelist, “Critical Worlds I: From Slave Music to World Music” conference, Université de Montréal, 2004.
+
+Keynote respondent, Global Hollywood conference, University of Victoria, Canada, 2001.
+
+“Notes on the Global Underground: Subcultural Elites, Conspicuous Cosmopolitanism.”  
+Keynote panelist, conference on Globalization and Popular Culture, University of Manitoba, 2001.
+
+Discussant, panel on “Portable Cultures, Global Identities.”  
+The Public Theater, New York, on Jessica Hagedorn’s play _Dogeaters_, 2001.
+
+“World Music: The Relocation of Culture.”  
+Roundtable presenter and participant, John D. and Catherine T. MacArthur Foundation, “Globalization and Creativity,” Chicago, 1996.
+
+“World Music and the Global Cultural Economy.”  
+Panelist, “Producão Cultural: Centro/Periferia?” conference, Universidade Federal de Alagoas, Maceió, Brazil, 1992.
+
+## Conferences
+
+“[Entangled Lives: Uncanny Animals in Cosmopolitical Documentary.](https://dokoissho.sdf.org/conferences/entangled-lives/)”  
+Panel co-organized with Vinicius Navarro, "New Configurations of Globality in Documentary Media.” Society for Cinema and Media Studies (SCMS) conference, Boston, 16 March 2024.
+
+“[Moving Targets: Object Detection and Algorithmic Aesthetics.](https://dokoissho.sdf.org/conferences/moving-targets/)”  
+Society for Cinema and Media Studies (SCMS) conference, Denver, 12 April  2023.
+
+“[Nocturnal Cinema: Film Noir, Jazz, and the French New Wave](https://dokoissho.sdf.org/projects/nocturnal-cinema/).”  
+Media and the Night Conference, McGill University, 18-19 March 2022.
+
+“Three-Dimensional Music: Cornelius’s Animated Soundworlds.”  
+Japan Society for Popular Music (JASPM) conference, Osaka, Japan, December 2019.
+
+“Tropical Dandies: _Merry Christmas, Mr. Lawrence_, Exoticism, and Bamboo Music.”    Society for Cinema and Media Studies (SCMS) conference, Seattle, 13-17 March 2019.
+
+“[Torrential Noise: 1724 Records and the Asian Post-Rock Soundscape](https://9dream.netlify.app/torrential-noise/).”  
+Interasiapop conference, Beijing, China, 9-10 June 2018.
+
+“[From Cookbook to Comic Book: Graphic Media, Hip Hop, and Asian-American Food Culture.](https://9dream.netlify.app/asian-american-food-media/)”  
+_Journal of Intercultural Studies_ conference, “Migrating Concepts: Cosmopolitanism, Multiculturalism, and Conviviality Across the Asia Pacific,” Singapore, 23-25 February 2018.
+
+“[‘Imagine’: Performance and Ritual in an Age of Global Insecurity.](http://www.apple.com)”   Cultural Typhoon conference, Tokyo University of the Arts, Japan, July 2016.
+
+“The Other Food Network: Asian Americans and Oppositional Identity in U.S. Food Media.”  
+Society for Cinema and Media Studies (SCMS) conference, Atlanta, 2 April, 2016.
+
+“Street Food, Asian American Style: Oppositional Taste in Post-Millennial U.S. Food Culture.”  
+Inter-Asia Cultural Studies Conference, Universitas Airlangga, Surabaya, Indonesia, 7-9 August 2015.
+
+“Platformers and Sequencers: Playing With MIDI.”  
+Ludomusicology 2015 conference, University of Utrecht, 9-10 April, 2015.
+
+“Hypermobile Subjects: Chipmusic, Resistance, and Mobility.”  
+Ludomusicology 2014 conference, University of Chichester, 2014.
+
+“The Rake’s Progress: Steve Coogan and Celebrity Culture.”  
+Society for Cinema and Media Studies (SCMS) conference, Seattle, 2014.
+
+‘By Pressing Down This Special Key, It Plays A Little Melody’: Videogame Subcultures and Nostalgia for the Future.”  
+Japanese Association for the Study of Popular Music (JASPM). Tokyo, Japan, 24 May 2012.
+
+“The Shibuya Eﬀect: Transnational Soundscapes, Transcultural Capital.”  
+Inter-Asia Popular Music conference, Chinese University of Hong Kong, 2010.
+
+“Strangers to Ourselves? Identification and Estrangement in Nick Broomfield’s _Ghosts_.”   Crossroads in Cultural Studies conference, Association for Cultural Studies, Lingnan University, Hong Kong, 2010.
+
+“Productivity Is Fun.”    
+The Internet As Playground and Factory: A Conference on Digital Labor, Eugene Lang College / The New School, 2009.
+
+“Among Strangers: Cinema Across Borders.”  
+Keene State College, New Hampshire, Sixth Biennial Symposium, 2009.
+
+“Another Green World: Lifestyle Television and Environmental Citizenship.”  
+Roundtable on Electronic Waste: _FlowTV_ Conference, Austin, Texas, 2008.
+
+“The _Baraka_ Eﬀect: Cinema, Modernity, and the Metaphysical Imaginary.”  
+Society for Cinema and Media Studies (SCMS) conference, Philadelphia 2008.
+
+“Miniaturizing the World: Internationalism, Nationalism and the Japanese Character Industry.”   “Ubiquitous Media: Asian Transformations,” _Theory, Culture, & Society_ conference, Tokyo, Japan, 2008.
+
+“Cashing in on the Attic: Auctions in Contemporary Lifestyle Television.”  
+Society for Cinema and Media Studies (SCMS) conference, Chicago, 2008.
+
+“Subcultural Studies and the Future of Nostalgia.”  
+Cultural Studies Now conference, University of East London, 2007.
+
+“‘Cool Japan’: Globalization and the Subculture Industry.”  
+Association for Cultural Studies Crossroads conference, Istanbul Bilgi University, Turkey, 2006.
+
+“_24_: Macrotelevision and Mobile Media.”  
+Console-ing Passions conference, Milwaukee, 2006.
+
+“‘Asian Cult Cinema’: Transcultural Politics and the Aesthetics of Transgression.”  
+Kinema Club conference, Japan Foundation, Tokyo, 2005.
+
+“Translation as a Martial Art: Kung Faux from _Détournement_ to Dubtitling.”  
+Console-ing Passions conference, New Orleans, 2004.
+
+“The Fashion Police: Self and Governance in _What Not To Wear_.”  
+Society for Cinema and Media Studies (SCMS) conference, Atlanta, 2003.
+
+“‘Chappie’: Software Characters and the Digital Culture Industry.”  
+Paper and panel co-organiser, “The Character Industry: Consuming Objects and Images in the Global Cultural Economy.” Asian Studies Conference Japan, Tokyo, 2003.
+
+“D-Day in Denmark: Multi-Channel Television at the Millennium.”  
+MIT3: Television. MIT, Cambridge, 2003.
+
+“Subcultural Cinema: Knowledge, Mediation, Cultural Capital.”  
+Society for Cinema Studies (SCS) conference, Minneapolis, 2003.
+
+“Street Tribes: Global Mediascapes, Subcultural Strategies.”  
+Paper and panel organizer, “Contact Zones: Transnational Spaces, Transcultural Imaginaries.” Midwest Popular Culture Association, conference, University of Wisconsin, Milwaukee, 2002.
+
+“Variable Cinema: Portable Movies and the Pleasures of Re-Invention.”  
+Society for Cinema Studies conference, Denver, 2002.
+
+“D-Day in Denmark: Multi-Channel Television at the Millennium.”  
+Society for Cinema Studies conference, Washington, D.C., 2001.
+
+“Trance: From Ethnomusicology to Techno-Primitivism.”  
+New Jersey Communication Association conference, Rider University, panel on Music and Media, 1999.
+
+“Window on the World: Global Theme Parks.”  
+MIT Media Lab, Narrative Intelligence group, 1997.
+
+“Teaching French on the World Wide Web.”  
+MIT, Colloquium for American Association of Teachers of French, 1997.
+
+“News, _Actualités_, _Nachrichten_: Using Radio on the Web.”  
+Presentation to MIT Pedagogy & Technology Workshop, 1997.
+
+“Entangled Observers: Ethnography and the Global Cultural Economy.”  
+MLA Convention, Washington, D.C., panel on “Ethnographies and Markets, 1996.
+
+“Global Mythologies: World Cinema and the Transnational Imaginary.”  
+Conference on “Film | Culture | History,” University of Aberdeen, 1996.
+
+“Transnational Geographic: Perspectives on _Baraka_.”  
+“New Exoticisms in Literature, Film, and Other Media,” conference at Universidad de Zaragoza, 1996.
+
+“The Self in the Other: Ethnography and the Politics of Surrealism.”  
+Society for Cinema Studies conference, New York, 1996.
+
+“Democracy in Cyberspace: Society, Politics, and the Virtual Republic.”  
+MIT Communications Forum. Panel organiser, presenter, moderator, 1994.
+
+“ZONE: Heterotopian Space from Apollinaire to Virtual Reality.”  
+MIT History and Literature Workshop, 1994.
+
+“Chris Marker’s _La Jetée_.”  
+MIT Media Lab, Narrative Intelligence group, 1993.
+
+“Tournier/Faucon: On _Vitrines_, Mannequins, and Photographs.”  
+MLA conference, San Francisco,1991. 
+
+“From Rousseau to Lévi-Strauss: Michel Tournier’s Noble Savages.”  
+NEMLA conference, Wilmington, panel on colonialism, 1989.
+  
+## Fellowships and Awards
+
+Fellow, Leslie Center for the Humanities, Dartmouth College, Winter Term[2008]{.aside}
+
+Old Dominion Fellowship, MIT (one semester research in Paris and Dakar, Senegal)[1994]{.aside}
+
+French Government Scholarship (for dissertation research in Paris)[1984-1985]{.aside}
+
+Major State Studentship, Department of Education and Science, UK (3-year, for dissertation research)[1981-1984]{.aside}
+
+## Academic Service
+
+**The New School**
+
+*Search Committees*
+
+Food Studies, New School for General Studies
+
+Cultural and Media Studies, Eugene Lang College
+
+Ethnomusicology, Eugene Lang College / New School for Jazz and Contemporary Music
+
+Humanities, Eugene Lang College / Graduate Faculty\
+
+*Other*
+
+Design & Social Science Curricular Task Force
+
+Academic Technology Policy, Procedure, and Planning Committee
+
+Reviewer, Provost’s Oﬃce Multi-Year Appointment Committee
+
+Bachelor’s Program in Liberal Arts, Media Studies & Film Committee
+
+Bachelor’s Program in Liberal Arts, Democracy & Cultural Pluralism (DCP) Committee
+
+Eugene Lang College: Academic Curriculum Committee
+
+Media and Cultural Studies Major Committee
+
+Faculty Advisory Committee Academic Aﬀairs Committee
+
+Committee on Degree Programs Diversity Task Force
+
+Committee on Research (assesssing ethical issues of social-sciences research project proposals)\
+
+**MIT**  
+
+*Film & Media Studies Program*
+
+Film & Media Studies Curriculum Committee
+
+Co-design and co-instructor (with Henry Jenkins) of new Introduction to Media Studies lecture course
+
+Co-author (with Henry Jenkins) of report to Dean of Humanities, “Film and Media Studies at MIT: Goals and Future Directions”
+
+Communications Forum: “Democracy in Cyberspace: Society, Politics, and the Virtual Republic.” Panel organizer, presenter, and moderator
+
+Cultural Studies Project: Cultural Studies Project Steering Committee\
+
+*Department of Romance Languages & Literatures*
+
+Academic advisor, Minor in French Search Committee
+
+Teaching of English as a Foreign Language Teaching Evaluation Committee
+
+## Professional Service
+
+**Board Membership**  
+
+Editorial Committee, _Encounters: An International Journal for the Study of Society and Culture_, Zayed University (2008-2011)
+
+Advisory Board, _Critical World: Thinking Globalization Through Music_, website, Université de Montréal (2004)\
+
+**External Examinations**
+
+M.A. in Japanese Cultural Studies, Birkbeck College, London (2013-14)\
+
+**Peer Review (books, journals)**
+
+Book proposal, _K-Pop: The Art of Cultural Capital_, for Ashgate Publishing (2013)
+
+“Tim Gunn’s Guide to Patriarchy: Gender, Fashion, and Heteronormativity,” _Journal of Communication Inquiry_ (2009)
+
+“Transculturated Sites and the Asia Within: Notes from a Field Observation in Singapore,” _Encounters: _An International Journal _for the _Study of _Society _and Culture (2009)
+
+Anne McKnight and Sharon Hayashi, “Goodbye Kitty, Hello War.” _Critical Worlds_ website (2008)
+
+“Being Real in the Mobile Reel: A Case Study on the Rise of Convergent Mobile Media, Modes of Realism and a Sense of Place,” _Convergence_ journal (2007)
+
+“Images and Sounds in Hypermedia: From Correspondence to Fusion,” for _Music, Sound, and the Moving Image_ (2007)
+
+Book proposal on national cinema by Valentina Vitali and Paul Willemen, for British Film Institute (2003)
+

@@ -1,0 +1,29 @@
+project:
+  type: website
+  resources:
+    - "pdf/*.pdf"
+    
+website:
+  title: "    "
+ 
+format: 
+  html: 
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    toc-title: '   '
+    self-contained: true
+    grid: 
+      sidebar-width: 300px
+      margin-width: 300px
+      gutter-width: 2em
+      body-width: 600px
+    theme: ember.scss
+    css: custom.scss
+    linestretch: 1.5
+    fontsize: 0.9em
+    smooth-scroll: true
+    linkcolor: "black"
+    ink-external-newwindow: true
+    #reader-mode: true
+  PrettyPDF-pdf: default
