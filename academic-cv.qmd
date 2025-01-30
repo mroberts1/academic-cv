@@ -1,6 +1,5 @@
 ---
 title: "Martin Roberts"
-subtitle: "Curriculum Vitae"
 ---
 
 ```{r}
@@ -21,13 +20,14 @@ Boston, MA 02116
 Keene, NH 03431  
 (802) 490-4122  
 :::
+<br>
 
 ## Education
 
 **University of Cambridge (Trinity College)**[1981-1989]{.aside}  
 Faculty of Modern & Medieval Languages  
 Ph. D. in French Studies (1989)  
-Dissertation: “Tournier, *Bricolage* and the Mythical Imagination”
+Dissertation: “Michel Tournier: *Bricolage* and the Mythical Imagination”
 
 **University of Birmingham**[1977-1981]{.aside}  
 Bachelor of Arts in French (First Class Honours)  
